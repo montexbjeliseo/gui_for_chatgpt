@@ -1,0 +1,4 @@
+openai
+PySimpleGUI
+python-dotenv
+peewee
