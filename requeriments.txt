@@ -1,4 +1,4 @@
-openai
-PySimpleGUI
-python-dotenv
-peewee
+openai==0.27.6
+peewee==3.16.2
+PySimpleGUI==4.60.4
+python-dotenv==1.0.0
